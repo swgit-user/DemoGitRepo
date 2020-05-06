@@ -1,2 +1,2 @@
 echo "this is a backup script"
-echo "This is for the PROD backup"
+echo "This script is for NON PROD backup"
